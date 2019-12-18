@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Prims_Algorithm.dir/main.cpp.o "CMakeFiles/Prims_Algorithm.dir/Prim'sAlgorithm.cpp.o"  -o Prims_Algorithm.exe -Wl,--out-implib,libPrims_Algorithm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

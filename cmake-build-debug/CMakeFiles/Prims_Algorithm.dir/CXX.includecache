@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erin/Desktop/Prims-Algorithm/Prim'sAlgorithm.hpp
+iostream
+-
+queue
+-
+vector
+-
+memory
+-
+algorithm
+-
+list
+-
+
+/cygdrive/c/Users/Erin/Desktop/Prims-Algorithm/main.cpp
+Prim'sAlgorithm.hpp
+/cygdrive/c/Users/Erin/Desktop/Prims-Algorithm/Prim'sAlgorithm.hpp
+
